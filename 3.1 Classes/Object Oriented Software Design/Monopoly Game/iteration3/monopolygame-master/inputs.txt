@@ -1,0 +1,17 @@
+Number of player(2-8):3
+Players:[Ceyda,Zeynep,Yusuf]
+Number of tax squares:2
+Tax values:35
+Go price:200
+Number of properties:22
+Price of properties:150
+Rent values:20
+Number of stations:4
+Station price:100
+Number of chance card:3
+Number of community chest card:3
+Number of park square:1
+Number of utilities:2
+Price of utilities:100
+Number of jail:1
+Number of go to jail:1
