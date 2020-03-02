@@ -1,0 +1,4 @@
+You can compile the program by entering: gcc main.c -o main
+
+
+Its a simple shell program, you can perform the basic shell operations with it.
