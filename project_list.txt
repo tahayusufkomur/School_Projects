@@ -6,10 +6,10 @@
 Difficulty Levels
 
 (*)             very easy
-(* *)           easy
-(* * *)         normal
-(* * * *)       hard
-(* * * * *)     very hard
+(**)            easy
+(***)           normal
+(****)          hard
+(*****)         very hard
 
 
 
@@ -24,7 +24,7 @@ Difficulty Levels
    Project 5 **   (Java) -> Dice simulator
    Project 6 ***  (Java) -> Course registeration program -beginning to object oriented-
 
-1.1 Classes
+1.2 Classes
    
  Programming 2 (1142)
 
@@ -52,12 +52,12 @@ Difficulty Levels
   
  Database Management 
 
-
+ will be added soon..
 
 
  Digital Logic Design
  
-
+ will be added soon..
 
  
  Object Oriented
