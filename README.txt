@@ -1,4 +1,4 @@
-	Navigator for School Projects
+	LIST OF PROJECTS
 
 
 
