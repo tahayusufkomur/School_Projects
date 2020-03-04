@@ -53,7 +53,7 @@ Difficulty Levels
   
  Database Management 
 
- will be added soon..
+ Term Project **** (Sql, Javascript) -> Receipt Tracking system with database and mobile application.
 
 
  Digital Logic Design
